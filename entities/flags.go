@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/lakshyabatman/mach-o-parser/src/parser"
+	"github.com/lakshyabatman/mach-o-parser/parser"
 )
 
 type Flags struct {

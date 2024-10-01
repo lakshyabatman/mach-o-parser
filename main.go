@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/lakshyabatman/mach-o-parser/src/entities"
-	"github.com/lakshyabatman/mach-o-parser/src/parser"
+	"github.com/lakshyabatman/mach-o-parser/entities"
+	"github.com/lakshyabatman/mach-o-parser/parser"
 )
 
 func main() {

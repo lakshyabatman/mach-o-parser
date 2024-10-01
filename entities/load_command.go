@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/lakshyabatman/mach-o-parser/src/parser"
+	"github.com/lakshyabatman/mach-o-parser/parser"
 )
 
 type Command uint32
